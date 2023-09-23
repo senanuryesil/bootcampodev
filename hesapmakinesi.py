@@ -15,4 +15,3 @@ elif islem == "/" :
     print("Bölümü:" ,sonuc)
 else:
     print("HATALI İŞLEM")
-    print("AMA ÜZÜLMEYİN HATASIZ KUL OLMAZ:)")
